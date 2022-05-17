@@ -1,4 +1,4 @@
-This is a description of the PDP-R benchmark instances. In every instance file there are four parameters and two sections, described below.
+This is a description of the PDP-R benchmark instances from https://www.sciencedirect.com/science/article/pii/S0377221721006603. In every instance file there are four parameters and two sections, described below.
 
 NUM_STATIONS: number of the stations on the ring.
 
